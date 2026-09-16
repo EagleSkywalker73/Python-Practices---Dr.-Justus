@@ -11,4 +11,4 @@ elif x == "/":
 elif x == "*":
     print("The answer is:", n1 * n2, "have a great day :)")
 else:
-    print("Deixa eu falar pra voce")
+    print("Vivan las mujeres")
